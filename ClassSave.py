@@ -3,6 +3,8 @@ import os
 import json
 import copy
 
+__version__ = '1.2'
+
 
 class ClassSL:
 
