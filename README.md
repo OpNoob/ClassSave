@@ -16,6 +16,5 @@ class TEST(ClassSL):
 
 
 t = TEST(test_str=234, load=False, save_json=True, json_private=False)
-# print(t.__json_private)
 t.save_class()
 ```
