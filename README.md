@@ -6,7 +6,7 @@ A base class for saving and loading classes from disk.
 pip install ClassSave
 ```
 
-## Usage:
+## Usage
 ```python
 from ClassSave import ClassSL
 
