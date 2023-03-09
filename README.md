@@ -1,6 +1,11 @@
 # ClassSave
 A base class for saving and loading classes from disk.
 
+## Install
+```cmd
+pip install ClassSave
+```
+
 ## Usage:
 ```python
 from ClassSave import ClassSL
